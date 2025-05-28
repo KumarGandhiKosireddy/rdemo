@@ -3518,10 +3518,10 @@ function App(){
             <td>{obj.email}</td>
             <td>{obj.body}</td>
           </tr>)
-
         })
       }
       </table>
+      
     </div>)
 }
 export default App
