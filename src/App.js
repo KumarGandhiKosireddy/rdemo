@@ -3522,7 +3522,6 @@ function App(){
         })
       }
       </table>
-      <p>lorem</p>
     </div>)
 }
 export default App
