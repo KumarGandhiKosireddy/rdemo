@@ -3520,8 +3520,8 @@ function App(){
           </tr>)
         })
       }
-      </table>
       
+      </table>
     </div>)
 }
 export default App
